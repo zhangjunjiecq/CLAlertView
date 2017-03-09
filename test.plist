@@ -20,7 +20,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string></span><span style="color:#330033;background-color: rgb(255, 0, 0);">icon@2x path</span><span style="color:#362e2b;"></string>  
+                    <string>https://github.com/zhangjunjiecq/CLAlertView/blob/master/60%402X.png</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -28,7 +28,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string></span><span style="background-color: rgb(255, 0, 0);">icon path</span><span style="color:#362e2b;"></string>  
+                    <string>https://github.com/zhangjunjiecq/CLAlertView/blob/master/60.png</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  

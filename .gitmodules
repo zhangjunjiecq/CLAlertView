@@ -1,0 +1,3 @@
+[submodule "plug/lab"]
+	path = plug/lab
+	url = git@gitlab.caiqr.com:zhangjunjie/CQMKTOOL.git
